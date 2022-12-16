@@ -18,7 +18,7 @@ class Stars {
             for(int j=1;j<=i+1;++j){
                 System.out.print("*");
             }
-            for(int k=1;k<=2*(4-i+1);++k{
+            for(int k=1;k<=2*(4-i+1);++k){
                 System.out.print(" ");
             }
             
